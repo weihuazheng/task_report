@@ -1,0 +1,9 @@
+# maven target dir
+target/
+bin/
+.settings/
+.classpath
+.project
+*.dat
+*.log
+*.class
